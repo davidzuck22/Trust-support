@@ -151,7 +151,7 @@ window.smartsupp||(function(d) {
       "position":"left"
   },
   "brandSetting":{
-      "brandName":"Blocktradingfx.live",
+      "brandName":"Notchchainfx.live",
       "brandSubTitle":"Typically replies within a day",
       "brandImg":"https://cdn.clare.ai/wati/images/WATI_logo_square_2.png",
       "welcomeText":"Hi there!\nHow can I help you?",
@@ -160,7 +160,7 @@ window.smartsupp||(function(d) {
       "ctaText":"Start Chat",
       "borderRadius":"25",
       "autoShow":false,
-      "phoneNumber":"16207479526"
+      "phoneNumber":"19253881127"
   }
 };
     s.onload = function() {
